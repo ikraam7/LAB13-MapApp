@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TrackMe</string>
+    <string name="location_update">📍 Lat: %1$.5f | Lon: %2$.5f\nAlt: %3$.1fm | Précision: %4$.1fm</string>
+    <string name="perm_denied">Permission GPS refusée. Impossible de fonctionner.</string>
+    <string name="waiting_gps">En attente du GPS…</string>
+</resources>
